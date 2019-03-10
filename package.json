@@ -1,0 +1,35 @@
+{
+  "name": "jsontocr",
+  "version": "0.1.0",
+  "description": "JSON to Crystal JSON Mappings Converter",
+  "main": "index.js",
+  "dependencies": {
+    "capitalize": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/molnarmark/jsontocr.git"
+  },
+  "keywords": [
+    "crystal",
+    "json",
+    "crystal",
+    "json",
+    "crystal",
+    "json",
+    "mappings",
+    "mappings",
+    "json",
+    "mappings"
+  ],
+  "author": "Mark Molnar <molnarpw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molnarmark/jsontocr/issues"
+  },
+  "homepage": "https://github.com/molnarmark/jsontocr#readme"
+}
