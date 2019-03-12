@@ -124,8 +124,7 @@ const processedTypes = [];
 
     const uniqueTypes = [...new Set(crystalTypes.map(type => type.toString()))];
     const mappings = `require "json"\n${uniqueTypes.join('\n')}`;
-
-    fs.writeFileSync(process.argv[3], mappings);
+    console.log(mappings);
   } catch (e) {
     return console.error(e);
   }

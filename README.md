@@ -1,11 +1,11 @@
 # JSON To Crystal
 
-Generate Crystal JSON mappings from JSON files.
+Generate Crystal JSON mappings from JSON files. Outputs to STDOUT.
 
 ## Usage
 
 ```
-npx jsontocr test.json types.cr
+npx jsontocr test.json > types.cr
 ```
 
 ## Examples

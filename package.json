@@ -1,6 +1,6 @@
 {
   "name": "jsontocr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JSON to Crystal JSON Mappings Converter",
   "main": "index.js",
   "dependencies": {
