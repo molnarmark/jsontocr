@@ -1,6 +1,6 @@
 {
   "name": "jsontocr",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "JSON to Crystal JSON Mappings Converter",
   "main": "index.js",
   "dependencies": {
@@ -31,5 +31,8 @@
   "bugs": {
     "url": "https://github.com/molnarmark/jsontocr/issues"
   },
-  "homepage": "https://github.com/molnarmark/jsontocr#readme"
+  "homepage": "https://github.com/molnarmark/jsontocr#readme",
+  "bin": {
+    "jsontocr": "index.js"
+  }
 }
